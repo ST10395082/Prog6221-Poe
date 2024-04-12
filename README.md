@@ -10,9 +10,13 @@ Reset quantities: The user is able to reset the quanties of their recipe to thei
 Clear data: The user is able to clear all data and enter a new recipe.
 # Usage
 Enter your recipe.
+
 Add the ingredients and steps to your recipe.
+
 Use the scaling feature to adjust the quantities of your recipe as desired.
+
 Reset the quantities of their original values if needed.
+
 Clear all data and enter a new recipe.
 # Contribution
 We are welcome to contribution from the community. If you are able to provide any suggestions, please submit a pull request
